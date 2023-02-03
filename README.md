@@ -1,10 +1,5 @@
 ### Hi, I'm Guillaume Faynot 👋
 
-<!--
-**guillfay/guillfay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🛠️ I' currently studying Mechanical and Industrial Engineering at ENSAM
 👀 I’m interested in Applied Mathematics, Data Science and IA
