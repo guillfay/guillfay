@@ -1,17 +1,19 @@
 ### Hi, I'm Guillaume Faynot 👋
 
 # 💫 About Me:
-- 🛠️ I' currently studying Mechanical and Industrial Engineering at ENSAM
-- 👀 I’m interested in Applied Mathematics, Data Science and IA
-- 🌱 I'm looking to work in Healthcare and Biomedical Services
-- 📫 Reach me via : LinkedIn, guillaume.faynot@ensam.eu
-- 🥅 Goals for 2023 : Keep learning and sharing my work
+- 👀 I’m interested in IA, Data Science and Applied Mathematics
+- 📚 I'm currently studying at CentraleSupelec
+- 🛠️ I' previously studied Mechanical and Industrial Engineering at ENSAM
+- 🌱 I'm looking to work on the challenges of AI in the industrial and energy field
+- 📫 Reach me via : LinkedIn, guillaume.faynot@student-cs.fr
+- 🥅 Goals for 2024 : Keep learning and sharing my work
 
 # Languages and tools
 VSCode and Python
 
 # Projects for the future
-- Work on a Reinforcement Learning Program to teach an humanoid IA to walk
+- Working on a Reinforcement Learning Program to teach an humanoid IA to walk
+- Developping a Discord chatbot to automate TGVmax reservations
 
 # My main sources to cultivate myself
 - Medium
