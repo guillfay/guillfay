@@ -5,9 +5,10 @@
 - 🌱 I'm looking to work on the challenges of AI in the industrial and energy field
 
 ## 💼 Work experience
-- Renewex
-- SLB
-- Schneider Electric
+
+- <img src="https://framerusercontent.com/images/q6CAs4InNjS2DscojRsV0yp35g.png" width="20" height="20" /> Renewex (SaaS for Renewables): Built Document AI in production (OCR + LLM structured extraction → validation → SQL DB) on financial/legal documents for solar portfolios
+- <img src="https://careers.slb.com/-/media/images/favicons/favicon-180x180.ashx" width="20" height="20" /> SLB: Did time-series ML on dense furnace sensors with recall-first defect detection and ops-facing stop/go decisioning. 
+- <img src="https://www.se.com/favicon.ico" width="20" height="20" /> Schneider Electric: Automated project data flows with Python + a DB layer, plus solid documentation/handover to keep critical systems operable.
 
 ## 📚 Education
 - 📊 [CentraleSupélec](https://www.centralesupelec.fr/): Master's in Artificial Intelligence
